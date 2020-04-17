@@ -1,7 +1,9 @@
+```
 Name	Address	Hostname
 infra0	10.0.1.10	infra0.example.com
 infra1	10.0.1.11	infra1.example.com
 infra2	10.0.1.12	infra2.example.com
+```
 
 etcd集群 初始化命令
 ```
