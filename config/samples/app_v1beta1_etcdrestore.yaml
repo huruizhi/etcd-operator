@@ -1,0 +1,7 @@
+apiVersion: app.etcdCluster.cn/v1beta1
+kind: EtcdRestore
+metadata:
+  name: etcdrestore-sample
+spec:
+  # Add fields here
+  foo: bar

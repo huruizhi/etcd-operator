@@ -1,0 +1,7 @@
+apiVersion: app.etcdCluster.cn/v1beta1
+kind: EtcdDump
+metadata:
+  name: etcddump-sample
+spec:
+  # Add fields here
+  foo: bar

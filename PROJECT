@@ -1,0 +1,13 @@
+domain: etcdCluster.cn
+repo: etcd-operator
+resources:
+- group: app
+  kind: Etcd
+  version: v1beta1
+- group: app
+  kind: EtcdDump
+  version: v1beta1
+- group: app
+  kind: EtcdRestore
+  version: v1beta1
+version: "2"
